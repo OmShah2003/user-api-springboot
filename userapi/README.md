@@ -55,7 +55,7 @@ This is a simple RESTful API for user registration and fetching user details bui
 ### Swagger UI
 
 Access the API documentation via Swagger UI at:
-http://localhost:8080/swagger-ui.html
+[http://localhost:8080/swagger-ui.html](https://app.swaggerhub.com/apis/OMSHAHNDB2003/createU/1.0.0#/)
 
 
 ### Running Tests
